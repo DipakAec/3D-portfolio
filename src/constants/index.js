@@ -356,7 +356,7 @@ import {
     },
 
     {
-      name: "Job IT",
+      name: "React Portfolio",
       description:
         "React Portfolio App is my Personal Portfolio build in react js.Here I showcase my office and personal projects",
       tags: [
